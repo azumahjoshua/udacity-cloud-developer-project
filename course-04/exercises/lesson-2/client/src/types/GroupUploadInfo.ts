@@ -1,4 +1,4 @@
 export interface GroupUploadInfo {
-  name: string
+  name: string,
   description: string
 }
